@@ -1,4 +1,4 @@
-FROM farmcoolcow/rclone
+FROM elfabio972/rclone
 
 ENV LABEL_MAINTAINER="Jean-Michel Ruiz (coolcow) <mail@coolcow.org>" \
     LABEL_VENDOR="coolcow.org" \
